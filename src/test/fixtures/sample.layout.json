@@ -1,0 +1,151 @@
+{
+ "coordinate_map": {
+  "s0001": {
+   "page": 0,
+   "bbox": [
+    50.0,
+    48.599998474121094,
+    186.6999969482422,
+    76.13999938964844
+   ],
+   "origin": [
+    50.0,
+    70.0
+   ],
+   "font": "Helvetica-Bold",
+   "flags": 16,
+   "size": 20.0,
+   "color": 0,
+   "text": "Alice Johnson"
+  },
+  "s0002": {
+   "page": 0,
+   "bbox": [
+    50.0,
+    82.0999984741211,
+    186.06797790527344,
+    98.58799743652344
+   ],
+   "origin": [
+    50.0,
+    95.0
+   ],
+   "font": "Helvetica",
+   "flags": 0,
+   "size": 12.0,
+   "color": 0,
+   "text": "Senior Backend Engineer"
+  },
+  "s0003": {
+   "page": 0,
+   "bbox": [
+    400.0,
+    82.0999984741211,
+    464.0439758300781,
+    98.58799743652344
+   ],
+   "origin": [
+    400.0,
+    95.0
+   ],
+   "font": "Helvetica",
+   "flags": 0,
+   "size": 12.0,
+   "color": 0,
+   "text": "2021 - 2024"
+  },
+  "s0004": {
+   "page": 0,
+   "bbox": [
+    50.0,
+    118.94349670410156,
+    217.69554138183594,
+    132.95050048828125
+   ],
+   "origin": [
+    50.0,
+    130.0
+   ],
+   "font": "Times-Roman",
+   "flags": 4,
+   "size": 10.5,
+   "color": 0,
+   "text": "Built payment services serving 10k rpm"
+  },
+  "s0005": {
+   "page": 0,
+   "bbox": [
+    50.0,
+    140.67999267578125,
+    260.0,
+    153.1699981689453
+   ],
+   "origin": [
+    50.0,
+    150.0
+   ],
+   "font": "Courier",
+   "flags": 8,
+   "size": 10.0,
+   "color": 0,
+   "text": "Skills: Python, FastAPI, PostgreSQL"
+  },
+  "s0006": {
+   "page": 0,
+   "bbox": [
+    50.0,
+    159.3000030517578,
+    157.26998901367188,
+    172.83999633789062
+   ],
+   "origin": [
+    50.0,
+    170.0
+   ],
+   "font": "Helvetica-Oblique",
+   "flags": 2,
+   "size": 10.0,
+   "color": 0,
+   "text": "Open source contributor"
+  },
+  "s0007": {
+   "page": 1,
+   "bbox": [
+    72.0,
+    84.94999694824219,
+    180.17799377441406,
+    104.18599700927734
+   ],
+   "origin": [
+    72.0,
+    100.0
+   ],
+   "font": "Helvetica",
+   "flags": 0,
+   "size": 14.0,
+   "color": 0,
+   "text": "Page two content"
+  }
+ },
+ "content": {
+  "s0001": "Alice Johnson",
+  "s0002": "Senior Backend Engineer",
+  "s0003": "2021 - 2024",
+  "s0004": "Built payment services serving 10k rpm",
+  "s0005": "Skills: Python, FastAPI, PostgreSQL",
+  "s0006": "Open source contributor",
+  "s0007": "Page two content"
+ },
+ "page_info": [
+  {
+   "width": 595.0,
+   "height": 842.0,
+   "rotation": 0
+  },
+  {
+   "width": 595.0,
+   "height": 842.0,
+   "rotation": 0
+  }
+ ]
+}
